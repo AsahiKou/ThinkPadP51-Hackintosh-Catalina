@@ -4,7 +4,7 @@
 >
 > 更新到 Catalina 15.2 beta 19C46a
 
- Thinkpad P51 的 EFI，关于其他信息说明可以参考 Mojava 的 [repo](https://github.com/AsahiHuang/ThinkPad-P51-Hackintosh-Mojave)
+ Thinkpad P51 的 EFI，关于其他信息说明可以参考 Mojava 的 [repo](https://github.com/AsahiHuang/ThinkPad-P51-Hackintosh-Mojave)，QQ讨论群：951898568
 
 ![](https://files.catbox.moe/2f4k7m.png)
 
