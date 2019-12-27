@@ -1,5 +1,11 @@
 # ThinkPad P51 Hackintosh
 
+> 2019.12.27 
+
+## 关于外接 eGPU 的测试
+
+这里非常感谢[AndyTQ](https://github.com/AndyTQ) issue 中提供了详细的测试过程和驱动方法。他提到目前仅能通过 BIOS 中屏蔽核显情况下通过雷电口使用外接显卡，如感兴趣或者有条件测试的请移步至该 [issue](https://github.com/AsahiHuang/ThinkPadP51-Hackintosh-Catalina/issues/1) 交流。
+
 > 2019.11.25
 >
 > 更新到 Catalina 15.2 beta 19C46a
